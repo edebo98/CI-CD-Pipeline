@@ -5,7 +5,11 @@ app.get("/", (req, res) => {
   res.send("Hello from CI/CD Pipeline!");
 });
 
+app.get("/health", (req, res) => {
+  res.status(200).send("OK");
+});
+
 const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
   console.log(`App running on port ${PORT}`);
 });
