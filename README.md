@@ -419,9 +419,8 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 
 **Edebo**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: www.linkedin.com/in/edeboonoja
+
 
 ## 🙏 Acknowledgments
 
@@ -442,3 +441,4 @@ This project is open source and available under the MIT License.
 **📧 Questions?** Open an issue or reach out!
 
 **⭐ Like this project?** Give it a star on GitHub!
+
